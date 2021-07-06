@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Dsa Projects, Games**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Data Analytics , Game and we development**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Data Analytics , Game and web development**
 
 - 👯 I’m looking to collaborate on **Games , Websites, Data Analytics**
 
